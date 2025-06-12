@@ -39,9 +39,11 @@ If you want to use and run it:
 3. Run the notebook cells to execute the project.
 
 ## 📊Results 
-Output for positive review as shown
+
+## Output for positive review as shown
 ![image alt](https://github.com/ganapathijahnavi/Sentiment-Analysis-on-Movie-Reviews/blob/dd815ce0fa6812e3cfed305728f79cde5cba5021/output1.png)
-output for negative review as shown
+
+##output for negative review as shown
 ![image alt](https://github.com/ganapathijahnavi/Sentiment-Analysis-on-Movie-Reviews/blob/dd815ce0fa6812e3cfed305728f79cde5cba5021/output2.png)
 
 🙋‍♀️Author--> Jahnavi Durga Ganapathi, Feel free to connect or contribute!
