@@ -1,6 +1,6 @@
 # Sentiment Analysis on Movie Reviews using IMDb Movie Review Dataset
 
-##📜Overview
+### 📜Overview 
 Sentiment Analysis is a key task in Natural Language Processing (NLP), aimed at classifying text based on its expressed sentiment—positive, negative, or neutral. This technique helps organizations to enhance customer satisfaction by understanding user feedback.
 
 In this project, I conducted sentiment analysis on movie reviews using the IMDb Movie Review Dataset and developed a Gradio-based **Movie Review Sentiment Classifier**. The classifier predicts whether a review is positive or negative and provides a **word cloud** to visualize the most frequently used words.
@@ -32,7 +32,7 @@ In this project, I conducted sentiment analysis on movie reviews using the IMDb 
 - Integrated a **Gradio-based GUI**, allowing users to input movie reviews and obtain predictions.
 - Displayed a **word cloud** to highlight the most frequently occurring words in reviews.
 
-##🚀 Installation & Usage
+## 🚀Installation & Usage
 If you want to use and run it:
 1. Clone the repository.
 2. Open **"GUI.ipynb"**.
@@ -42,3 +42,4 @@ If you want to use and run it:
 
 
 
+🙋‍♀️Author--> Jahnavi Durga Ganapathi, Feel free to connect or contribute!
